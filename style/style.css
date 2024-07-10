@@ -1,0 +1,26 @@
+/* header section start here */
+
+.section-container{
+    
+    height:100%;
+    width:100%;
+    background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+}
+
+ section div{
+   
+    margin: 26px 221px 45px;
+    text-align: center;
+    
+ }
+ .btn_pri{
+    background-color:#0D1321;
+    color: white;
+    padding: 21px 24px;
+    border-radius: 8px;
+ }
+ /* header section ends here */
+ 
